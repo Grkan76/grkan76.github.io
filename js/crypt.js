@@ -93,9 +93,9 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
-"https://www.imagevisit.com/images/2023/02/17/1000_F_169561107_GBdBuZbmOHQKWdXl9DllehaEkCids0Ky.jpg "
+, "https://www.imagevisit.com/images/2023/02/17/1000_F_169561107_GBdBuZbmOHQKWdXl9DllehaEkCids0Ky.jpg "
 , "https://www.imagevisit.com/images/2023/02/17/1000_F_168769418_GHALsqlIr8jlG6iIhIfuSPOr2hnWk53r.jpg "
-, "https://www.imagevisit.com/images/2023/02/17/360_F_511095523_WUmBt4yw9wAkNA72R5GHOvMP1vpU8p9W.jpg"
+, "https://www.imagevisit.com/images/2023/02/17/360_F_511095523_WUmBt4yw9wAkNA72R5GHOvMP1vpU8p9W.jpg "
 
 
 
